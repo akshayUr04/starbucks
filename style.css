@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Spline+Sans:wght@400;500;600;700&display=swap');
+
+
+body{
+    font-family: "spline sans",sans-serif;
+    overflow-x: hidden;
+}
+h1{
+    font-weight: 600;
+}
+
+.headerlist{
+    font-size: 1rem;
+    font-weight: bold;
+   
+}
+
+.section2,.section3{
+    margin-top: 2rem;
+    background-color:#d50032 ;
+}
+.section1{
+    background-color:#d50032 ;
+}
+
+.section4{
+    margin-top: 2rem;
+    background-color: #00b388;
+}
+
+.section5{
+    margin-top: 2rem;
+    background-color: #1e3932
+}
+
+.section6{
+    margin-top: 2rem;
+    background-color: #d50032;
+}
+.footer li{
+
+    margin-top: 1.5rem;
+    list-style-type: none;
+}
+svg{
+    margin-left:1rem;
+}
