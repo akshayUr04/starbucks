@@ -8,6 +8,10 @@ body{
 h1{
     font-weight: 600;
 }
+.row{
+    width: 100%;
+}
+
 
 .headerlist{
     font-size: 1rem;
